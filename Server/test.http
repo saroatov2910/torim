@@ -1,0 +1,10 @@
+
+POST http://127.0.0.1:8000/appointments/schedule
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Nn0.NpsVNvEuap7XdlWp8sLM9jh-N5Kc8seToc01MvShoCw
+
+{
+      "date": "1999-01-01",
+      "time": "13:00",
+      "user_id": 7,
+      "doctor_id": 6
+}

@@ -1,0 +1,15 @@
+button {
+    color:white;
+}
+
+span {
+color:black !important;
+}
+
+.react-calendar__navigation button {
+    color:black !important;
+}
+
+.confirm {
+    color:white !important;
+}
